@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shijie.Cao
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning _Understanding In JVM*
+- 🌱 I’m currently learning *Understanding In JVM*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1120755926@qq.com
 
